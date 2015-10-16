@@ -18,7 +18,7 @@ To install latest version simply add it to your `composer.json`:
 "itsgoingd/clockwork": "~1.9"
 ```
 
-### Laravel
+### Laravel 5
 
 Once Clockwork is installed, you need to register Laravel service provider, in your `app/config/app.php`:
 
